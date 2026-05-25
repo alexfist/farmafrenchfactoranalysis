@@ -1,4 +1,3 @@
-# farmafrenchfactoranalysis
 # Fama-French Factor Analysis
 
 ## Overview
